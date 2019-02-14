@@ -1,0 +1,38 @@
+{
+    "name": "bissolli/nova-hidden-field",
+    "description": "A hidden field for Laravel Nova.",
+    "keywords": [
+        "laravel",
+        "nova",
+        "hidden field"
+    ],
+    "homepage": "https://github.com/bissolli/nova-hidden-field",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Gustavo Bissolli",
+            "email": "gustavo.bissolli@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "require": {
+        "php": ">=7.1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Bissolli\\NovaHiddenField\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Bissolli\\NovaHiddenField\\FieldServiceProvider"
+            ]
+        }
+    },
+    "config": {
+        "sort-packages": true
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
