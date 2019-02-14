@@ -4,9 +4,6 @@
 [![Total Downloads](https://img.shields.io/packagist/dt/bissolli/nova-hidden-field.svg?style=flat-square)](https://packagist.org/packages/bissolli/nova-hidden-field)
 [![StyleCI](https://github.styleci.io/repos/157219733/shield?branch=master)](https://github.styleci.io/repos/157219733)
 
-
-![screenshot of the phone field](https://raw.githubusercontent.com/bissolli/nova-hidden-field/master/screenshots/nova-hidden-field.gif)
-
 ## Requirements
 
 Laravel Nova, only =)
