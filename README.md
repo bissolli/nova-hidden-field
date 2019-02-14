@@ -2,7 +2,7 @@
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/bissolli/nova-hidden-field.svg?style=flat-square)](https://packagist.org/packages/bissolli/nova-hidden-field)
 [![Total Downloads](https://img.shields.io/packagist/dt/bissolli/nova-hidden-field.svg?style=flat-square)](https://packagist.org/packages/bissolli/nova-hidden-field)
-[![StyleCI](https://github.styleci.io/repos/157219733/shield?branch=master)](https://github.styleci.io/repos/157219733)
+[![StyleCI](https://github.styleci.io/repos/170687272/shield?branch=master)](https://github.styleci.io/repos/170687272)
 
 ## Requirements
 
